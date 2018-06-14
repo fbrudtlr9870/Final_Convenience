@@ -37,9 +37,13 @@ public class HomeController {
 >>>>>>> branch 'soon' of https://github.com/fbrudtlr9870/Final_Convenience.git
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
-	/**
-	 * Simply selects the home view to render by returning its name.
-	 */
+	
+
+
+
+
+
+
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
