@@ -22,6 +22,8 @@ public class HomeController {
 	 * 
 	 * 경식아 이거뭐야?>!
 	 * 
+	 * 안녕 친구들 
+	 * 
 	 */
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
