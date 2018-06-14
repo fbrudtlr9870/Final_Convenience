@@ -60,6 +60,7 @@ public class HomeController {
 				우리가 떠날 때다.
 				
 				경식아 우리 잘 돼
+				ㅁㄴㅇ
 	 *
 	 */
 	
