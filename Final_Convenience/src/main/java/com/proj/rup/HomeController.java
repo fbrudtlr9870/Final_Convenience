@@ -12,16 +12,36 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Handles requests for the application home page.
+ * 
  */
 @Controller
 public class HomeController {
 	
-	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
+
+	
+
 	
 	/**
-	 * Simply selects the home view to render by returning its name.
+	 * 
+	 * 경식아 이거뭐야?>!
+	 * 
+	 * 안녕 친구들
+	 * 안녕?????????????
+	 * 
+	 * 근데 이걸 남들이 어떻게 가져오지?
+	 * 
+	 * 
+	 * 
 	 */
+	
+
+private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
+
+
+
+
+
+
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
