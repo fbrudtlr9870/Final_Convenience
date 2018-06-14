@@ -17,6 +17,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class HomeController {
 	
+	
+	/**
+	 * 
+	 * 경식아 이거뭐야
+	 * 
+	 */
+	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	/**
