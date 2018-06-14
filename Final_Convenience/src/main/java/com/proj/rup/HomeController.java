@@ -27,6 +27,8 @@ public class HomeController {
 	 * 
 	 * 근데 이걸 남들이 어떻게 가져오지?
 	 * 
+	 * 
+	 * 
 	 */
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
@@ -34,6 +36,13 @@ public class HomeController {
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 * 헬프미
+	 * 
+	 * 안녕
+	 * 
+	 * 안녕
+	 * 
+	 * 안녕
+	 * 안녕
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
