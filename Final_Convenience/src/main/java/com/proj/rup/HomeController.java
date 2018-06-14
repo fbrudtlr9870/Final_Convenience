@@ -17,6 +17,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class HomeController {
 	
+
+	
+
 	
 	/**
 	 * 
@@ -31,19 +34,15 @@ public class HomeController {
 	 * 
 	 */
 	
-	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-	
-	/**
-	 * Simply selects the home view to render by returning its name.
-	 * 헬프미
-	 * 
-	 * 안녕
-	 * 
-	 * 안녕
-	 * 
-	 * 안녕
-	 * 안녕
-	 */
+
+private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
+
+
+
+
+
+
+>>>>>>> branch 'sang' of https://github.com/fbrudtlr9870/Final_Convenience.git
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
