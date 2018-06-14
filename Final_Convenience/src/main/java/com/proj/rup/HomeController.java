@@ -19,6 +19,10 @@ public class HomeController {
 	
 
 	
+
+
+
+	
 	/**
 	 * 
 	 * 경식아 이거뭐야?>!
@@ -30,7 +34,7 @@ public class HomeController {
 	 * 
 	 */
 	
-
+>>>>>>> branch 'soon' of https://github.com/fbrudtlr9870/Final_Convenience.git
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	/**
