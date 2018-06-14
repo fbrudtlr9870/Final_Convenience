@@ -56,6 +56,12 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "home";
+		
+		
+		
+		
+		/* 경식이 허락따윈 받지 않고 그냥 머쥐한다.*/
+		
 	}
 	
 }
