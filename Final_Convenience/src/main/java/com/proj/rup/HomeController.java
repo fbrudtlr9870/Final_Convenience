@@ -58,6 +58,8 @@ public class HomeController {
 				
 				곧 휴가철이다.
 				우리가 떠날 때다.
+				
+				경식아 우리 잘 돼
 	 *
 	 */
 	
