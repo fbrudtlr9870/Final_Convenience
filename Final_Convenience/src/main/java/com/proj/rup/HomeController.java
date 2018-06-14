@@ -10,10 +10,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-/*왜 실패야? ㅅㅂ*/
-/**
- * 
- */
+
+
 @Controller
 public class HomeController {
 	
@@ -22,16 +20,42 @@ public class HomeController {
 
 	
 	/**
-	 * 
-	 * 경식아 이거뭐야?>!
-	 * 
-	 * 안녕 친구들
-	 * 안녕?????????????
-	 * 
-	 * 근데 이걸 남들이 어떻게 가져오지?
-	 * 나도몰라 왜이러는지
-	 * 
-	 * 췍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	 * 			또 하루 멀어져 간다
+				내뿜은 담배 연기처럼
+				작기만한 내 기억 속에
+				무얼 채워 살고 있는지
+				점점 더 멀어져 간다
+				머물러 있는 청춘인 줄 알았는데
+				비어가는 내 가슴 속엔
+				더 아무 것도 찾을 수 없네
+				
+				계절은 다시 돌아 오지만
+				떠나간 내 사랑은 어디에
+				내가 떠나 보낸 것도 아닌데
+				내가 떠나 온 것도 아닌데
+				
+				조금씩 잊혀져 간다
+				머물러 있는 사랑인 줄 알았는데
+				또 하루 멀어져 간다
+				매일 이별하며 살고 있구나
+				매일 이별하며 살고 있구나
+				
+				점점 더 멀어져 간다
+				머물러 있는 청춘인 줄 알았는데
+				비어가는 내 가슴 속엔
+				더 아무 것도 찾을 수 없네
+				
+				계절은 다시 돌아 오지만
+				떠나간 내 사랑은 어디에
+				내가 떠나 보낸 것도 아닌데
+				내가 떠나 온 것도 아닌데
+				
+				조금씩 잊혀져 간다
+				머물러 있는 사랑인 줄 알았는데
+				또 하루 멀어져 간다
+				매일 이별하며 살고 있구나
+				매일 이별하며 살고 있구나
+	 *
 	 */
 	
 
