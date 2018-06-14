@@ -70,7 +70,7 @@ public class HomeController {
 				
 			ㅋㅌㅊㅋㅌㅊ
 			ㅋㅌㅊㅋㅌㅊ
-			ㅋㅌㅊㅋㅌㅊ
+		
 
 	 *
 	 */
